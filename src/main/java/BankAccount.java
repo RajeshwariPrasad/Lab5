@@ -27,7 +27,7 @@ public class BankAccount {
     /**
      *
      */
-    withdraw deposit transfer functions (??)
+
     public enum BankAccountType {
         /**
          *
@@ -94,7 +94,7 @@ public class BankAccount {
         return accountNumber;
     }
     public double getAccountBalance() {
-        return double;
+    return getAccountBalance();
     }
     public double getInterestRate() {
         return interestRate;
@@ -109,6 +109,7 @@ public class BankAccount {
     public BankAccountType getAccountType() {
         return accountType;
     }
+
     /*
      * Implement getters and setters as appropriate for private variables.
      */
